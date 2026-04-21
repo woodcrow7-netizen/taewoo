@@ -1,37 +1,36 @@
-# 👋 안녕하세요, [이름/닉네임]입니다!
+# 👋 안녕하세요! 김태우입니다
 
-### 📋 한 줄 소개
-"성장을 즐기며 효율적인 코드를 고민하는 프론트엔드/백엔드 개발자입니다."
+### 🎓 Information
+* **University:** 한신대
+
 
 ---
 
-### 🛠 Tech Stacks
+### 📚 Stack I'm Learning
+> 학교 수업과 프로젝트를 통해 익히고 있는 기술들입니다.
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> |
+
+---
+
+### 📂 Major Repositories
+* 🖥️ **[C언어 기초]**: 프로그래밍 언어 실습 및 과제 정리
+* 🌐 **[웹 프로그래밍]**: HTML/CSS를 활용한 개인 포트폴리오 제작
+* 💡 **[알고리즘 교실]**: 백준/프로그래머스 문제 풀이 기록
+
+---
+
+### 📊 My GitHub Contributions
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[본인ID]&show_icons=true&theme=ocean_dark" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=본인아이디&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌱 I'm currently...
-* 🔭 **Project:** [현재 진행 중인 프로젝트 이름] 개발 중
-* 📚 **Learning:** 최근에는 [배우고 있는 기술]에 푹 빠져 있습니다.
-* 💬 **Contact:** [이메일주소] 혹은 [블로그 링크]
-
----
-
-### ✍️ Latest Blog Posts
-* [포스팅 제목 1](링크)
-* [포스팅 제목 2](링크)
+### 📫 Contact
+* **Email:** [학교메일 또는 개인메일]
+* **Blog:** [티스토리/Velog 등 주소]
